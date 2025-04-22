@@ -50,7 +50,7 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-2" value="操纵" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="285" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LtPbSCiCr3Fw79rYuDHF-4" value="地图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-4" value="地图交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-10" target="LtPbSCiCr3Fw79rYuDHF-12">

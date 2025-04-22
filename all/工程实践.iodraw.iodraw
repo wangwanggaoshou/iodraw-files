@@ -136,6 +136,11 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-88" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="529.9999999999998" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="110" />
+              <mxPoint x="531" y="110" />
+              <mxPoint x="531" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-12" value="旅游景点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">

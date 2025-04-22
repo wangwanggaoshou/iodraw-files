@@ -26,8 +26,14 @@
         <mxCell id="fnlTwzslyz3undoBGMzM-2" value="操纵" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="fnlTwzslyz3undoBGMzM-9" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fnlTwzslyz3undoBGMzM-5" target="fnlTwzslyz3undoBGMzM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fnlTwzslyz3undoBGMzM-5" value="地图交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="-15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnlTwzslyz3undoBGMzM-8" value="生成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-140" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

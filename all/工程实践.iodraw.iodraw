@@ -358,8 +358,8 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-101" value="收到时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="290" y="470" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LtPbSCiCr3Fw79rYuDHF-103" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="300" width="80" height="50" as="geometry" />
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-103" value="天气名称" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="285" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

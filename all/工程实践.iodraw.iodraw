@@ -26,7 +26,7 @@
         <mxCell id="fnlTwzslyz3undoBGMzM-2" value="操纵" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fnlTwzslyz3undoBGMzM-5" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fnlTwzslyz3undoBGMzM-5" value="地图交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="-15" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -67,7 +67,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-43" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-4" target="LtPbSCiCr3Fw79rYuDHF-40">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="340" />
+              <mxPoint x="740" y="450" />
+              <mxPoint x="620" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-4" value="地图交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />

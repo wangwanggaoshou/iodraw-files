@@ -32,8 +32,8 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-4" value="地图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LtPbSCiCr3Fw79rYuDHF-10" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="130" width="80" height="80" as="geometry" />
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-10" value="查看" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -325,6 +325,9 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-91" value="交互ID" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="290" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-93" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="860" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

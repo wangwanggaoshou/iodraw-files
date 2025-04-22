@@ -54,8 +54,14 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-12" value="旅游景点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-16" target="LtPbSCiCr3Fw79rYuDHF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-16" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="180" y="300" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-18" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

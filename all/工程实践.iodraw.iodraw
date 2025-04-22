@@ -166,6 +166,11 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-64" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-24" target="LtPbSCiCr3Fw79rYuDHF-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-67" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="LtPbSCiCr3Fw79rYuDHF-64">
+          <mxGeometry x="-0.0735" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-24" value="交通信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -211,8 +216,14 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-59" value="收到" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="450" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-66" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-63" target="LtPbSCiCr3Fw79rYuDHF-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-63" value="整合" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="710" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-65" value="路线" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="835" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

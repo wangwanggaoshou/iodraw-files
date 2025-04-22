@@ -69,7 +69,7 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-4" value="地图交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LtPbSCiCr3Fw79rYuDHF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-10" target="LtPbSCiCr3Fw79rYuDHF-12">
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-10" target="LtPbSCiCr3Fw79rYuDHF-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-15" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LtPbSCiCr3Fw79rYuDHF-13">
@@ -137,12 +137,6 @@
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-33" value="处于" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="440" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LtPbSCiCr3Fw79rYuDHF-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="400" as="sourcePoint" />
-            <mxPoint x="310" y="350" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

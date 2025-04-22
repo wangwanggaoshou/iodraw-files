@@ -23,7 +23,7 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-1" target="LtPbSCiCr3Fw79rYuDHF-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LtPbSCiCr3Fw79rYuDHF-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LtPbSCiCr3Fw79rYuDHF-17">
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-20" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LtPbSCiCr3Fw79rYuDHF-17">
           <mxGeometry x="0.0343" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -61,6 +61,11 @@
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-16" target="LtPbSCiCr3Fw79rYuDHF-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-21" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LtPbSCiCr3Fw79rYuDHF-19">
+          <mxGeometry x="-0.181" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-16" value="查询" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="285" width="80" height="50" as="geometry" />

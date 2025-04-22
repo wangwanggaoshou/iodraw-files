@@ -99,7 +99,7 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-48" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-12" target="LtPbSCiCr3Fw79rYuDHF-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LtPbSCiCr3Fw79rYuDHF-50" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="LtPbSCiCr3Fw79rYuDHF-48">
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-50" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="LtPbSCiCr3Fw79rYuDHF-48">
           <mxGeometry x="0.0914" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-16" value="查询" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="285" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-53" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-18" target="LtPbSCiCr3Fw79rYuDHF-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-18" value="天气数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="280" width="120" height="60" as="geometry" />
@@ -152,8 +155,16 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-47" target="LtPbSCiCr3Fw79rYuDHF-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-51" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="LtPbSCiCr3Fw79rYuDHF-49">
+          <mxGeometry x="0.3654" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-47" value="处于" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-52" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

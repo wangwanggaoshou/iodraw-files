@@ -36,6 +36,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-58" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.99999999999977" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="340" />
+              <mxPoint x="390" y="395" />
+              <mxPoint x="240" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -181,6 +191,9 @@
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-54" value="出行建议" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-59" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -261,11 +261,28 @@
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-71" value="生成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="440" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LtPbSCiCr3Fw79rYuDHF-77" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-73" target="LtPbSCiCr3Fw79rYuDHF-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-77" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-79" target="LtPbSCiCr3Fw79rYuDHF-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="20" />
+              <mxPoint x="420" y="20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LtPbSCiCr3Fw79rYuDHF-73" value="具体地理位置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-78" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LtPbSCiCr3Fw79rYuDHF-73" target="LtPbSCiCr3Fw79rYuDHF-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="595" as="sourcePoint" />
+            <mxPoint x="420" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtPbSCiCr3Fw79rYuDHF-79" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="900" y="100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
